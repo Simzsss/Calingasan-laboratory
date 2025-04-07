@@ -1,3 +1,3 @@
-public class Lab3-inheritage {
+public class Lab3.inheritage {
     
 }
